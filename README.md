@@ -18,7 +18,10 @@
     c) Data cleaning, Data integration, Data transformation, Data model building (e.g. Classification)
 
 
-3) Apply appropriate ML algorithm on a dataset collected in a cosmetics shop showing details of customers to predict customer response for special offers.
+3) Visualize the data using R/Python by plotting the graphs for assignment no. 1 and 2. Consider a suitable data set.
+    a) Use Scatter plot, bar plot, Box plot and Histogram
+    b) Perform the data visualization operations using Tableau for the given dataset.
+
 
 
 4) Apply appropriate ML algorithm on a dataset collected in a cosmetics shop showing details of customers to predict customer response for special offer. Create confusion matrix based on above data and find
@@ -28,9 +31,7 @@
     d) F-1 score
 
 
-5) Visualize the data using R/Python by plotting the graphs for assignment no. 1 and 2. Consider a suitable data set.
-    a) Use Scatter plot, bar plot, Box plot and Histogram
-    b) Perform the data visualization operations using Tableau for the given dataset.
+5) Apply appropriate ML algorithm on a dataset collected in a cosmetics shop showing details of customers to predict customer response for special offers.
 
 
 6) Assignment on Regression technique. Download temperature data from the link below.
